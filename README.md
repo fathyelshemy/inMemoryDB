@@ -25,7 +25,7 @@ this repo containt example for creating simple db with only on table (Employee) 
 
 just go to 
 ```java
- MondiaInMemory.java 
+ InMemoryDBFire.java 
 ```
 and run that application it run continouslly to exist just type *quit* **or** *Quit*
 
